@@ -1,5 +1,5 @@
 .img{text-align: center;}
-img{display: block;margin:0 auto;}
+img{display: block;margin:0 auto;padding:0px;}
 .footer p{font-size:24px;color:rgb(255, 41, 65);font-weight: bold;line-height: 25.6px;font-family: -apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;}
 .f-2{color:rgb(0, 0, 0) !important; font-weight: normal !important;}
 span{color:rgb(255, 41, 65);font-weight: bold;}
