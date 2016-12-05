@@ -1,0 +1,8 @@
+.img{text-align: center;}
+img{display: block;margin:0 auto;}
+.footer p{font-size:24px;color:rgb(255, 41, 65);font-weight: bold;line-height: 25.6px;font-family: -apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+.f-2{color:rgb(0, 0, 0) !important; font-weight: normal !important;}
+span{color:rgb(255, 41, 65);font-weight: bold;}
+.header{padding:0 10px 0 10px;}
+.header p{ line-height: 1.4;font-size: 24px;font-weight: 400;font-family: -apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+.date{color: #8c8c8c;font-style: normal;line-height: 18px;font-size: 18px !important;margin-top:-10px;}
